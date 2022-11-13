@@ -3,6 +3,7 @@
   "Type": "map",
   "Org": "apetavern",
   "Ident": "grubs_test_map",
+  "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
