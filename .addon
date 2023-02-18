@@ -14,6 +14,9 @@
     "ProjectTemplate": null,
     "GameSupport": [
       "apetavern.grubs"
-    ]
+    ],
+    "Summary": "",
+    "Description": "",
+    "Public": false
   }
 }
