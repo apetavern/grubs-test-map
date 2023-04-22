@@ -1,6 +1,6 @@
 {
   "Title": "Grubs Test Map",
-  "Type": "map",
+  "Type": "content",
   "Org": "apetavern",
   "Ident": "grubs_test_map",
   "Tags": null,
@@ -10,6 +10,8 @@
   "ResourcePaths": null,
   "HasCode": false,
   "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
   "Metadata": {
     "ProjectTemplate": null,
     "GameSupport": [
